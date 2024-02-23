@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  edu-app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-02-23T01:22:46.585227455Z"
+    description: A Helm chart for running vue.js and springboot about Employee Project.
+    digest: 9de8146adb8482a7c5e0f75d35313a043eda7fc91ae3b2da04a9cfe920f21e06
+    name: edu-app
+    type: application
+    urls:
+    - edu-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-02-23T01:22:46.584452218Z"
